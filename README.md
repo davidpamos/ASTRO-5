@@ -7,4 +7,4 @@ The team is made up of five first-year high school students:
    - Rocío Santana.
    - Mario Torres.
    - Daniel Wagner.
-Mentor: David Pamos Ortega. Dpto. de Física y Química. IES Levante. Algeciras. Spain
+   - Mentor: David Pamos Ortega. Dpto. de Física y Química. IES Levante. Algeciras. Spain
