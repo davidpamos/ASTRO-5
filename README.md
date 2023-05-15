@@ -19,4 +19,4 @@ The code measures the magnetic field, using the magnetometer, every 12 seconds, 
 Depending on the photographs that we get, we suppose that the areas that have an albedo close to the average value of the Earth, will also have a healthy NDVI value, in the case of aquatic areas close to healthy vegetation. We do not expect, in principle, a correlation between these parameters and the value of the magnetic field in these areas.
 
 5. Run:
-The code was runned last April 30th. During the 3 hours experiment they were captured daylight pictures when the spacecraft passed through America. The result is this video: https://youtu.be/z08-GbTyFus
+The code was runned last April 30th. During the 3 hours experiment they were captured daylight pictures when the spacecraft passed through America. The result is this video: (https://drive.google.com/file/d/1wct6ciFpnfz2OZC2aI58lcvikmFxQMtW/view?usp=sharing)
